@@ -1,2 +1,4 @@
-helloworld2/helloworld2/bin/
-helloworld2/helloworld2/obj/
+helloworld2/vs/*
+helloworld2/helloworld2/bin/*
+helloworld2/helloworld2/obj/*
+helloworld2/helloworld2/vs/*
