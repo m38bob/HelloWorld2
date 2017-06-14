@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace helloworld2
 {
@@ -23,6 +19,10 @@ namespace helloworld2
         public static void WriteLine4()
         {
             Console.WriteLine("You sound unhinged");
+        }
+        public static void WriteLine5()
+        {
+            Console.WriteLine("Says you!!!!!");
         }
     }
 }
